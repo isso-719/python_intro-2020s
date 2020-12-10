@@ -1,0 +1,4 @@
+hoge,090-1234-5678,hoge@example.com
+hogehoge,080-1234-5678,hogehoge@example.com
+hogeko,070-1234-5678,hogeko@example.com
+hogetaro,090-xxx-xxxx,hoge@hoge.test
